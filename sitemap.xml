@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chubbylee-math.github.io/2020/06/12/hello-world/</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2020-06-12T03:36:39.859Z</lastmod>
+    <lastmod>2020-06-12T12:15:17.949Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chubbylee-math.github.io/404.html</loc>
+    <loc>http://yoursite.com/2020/06/12/hello-world/</loc>
+    
+    <lastmod>2020-06-12T06:48:07.971Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2020-06-12T03:00:10.996Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://chubbylee-math.github.io/search/index.html</loc>
+    <loc>http://yoursite.com/search/index.html</loc>
     
     <lastmod>2020-06-12T02:58:12.759Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chubbylee-math.github.io/about/index.html</loc>
-    
-    <lastmod>2020-06-12T02:57:52.084Z</lastmod>
     
   </url>
   
