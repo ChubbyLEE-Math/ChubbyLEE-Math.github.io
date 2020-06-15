@@ -5,9 +5,9 @@
   <subtitle>LEE BLOG</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://chubbylee-math.github.io/"/>
   <updated>2020-06-12T06:48:07.971Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://chubbylee-math.github.io/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/12/hello-world/"/>
-    <id>http://yoursite.com/2020/06/12/hello-world/</id>
+    <link href="https://chubbylee-math.github.io/2020/06/12/hello-world/"/>
+    <id>https://chubbylee-math.github.io/2020/06/12/hello-world/</id>
     <published>2020-06-12T01:02:33.140Z</published>
     <updated>2020-06-12T06:48:07.971Z</updated>
     
@@ -35,10 +35,10 @@
     </summary>
     
     
-      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书笔记" scheme="https://ChubbyLEE-Math.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://ChubbyLEE-Math.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
