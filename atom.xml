@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chubbylee-math.github.io/"/>
-  <updated>2020-07-09T13:55:21.333Z</updated>
+  <updated>2020-07-09T15:25:02.288Z</updated>
   <id>https://chubbylee-math.github.io/</id>
   
   <author>
@@ -21,24 +21,20 @@
     <link href="https://chubbylee-math.github.io/2020/07/09/hello-world%20copy/"/>
     <id>https://chubbylee-math.github.io/2020/07/09/hello-world%20copy/</id>
     <published>2020-07-09T03:15:17.437Z</published>
-    <updated>2020-07-09T13:55:21.333Z</updated>
+    <updated>2020-07-09T15:25:02.288Z</updated>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/img/测试/1.pdf" width="100%" height="550" type="application/pdf"></div><iframe src="/img/测试/1.pdf"></iframe>]]></content>
+    <content type="html"><![CDATA[<embed src="/img/测试/1.pdf" width="100%" height="1300px"><p><a href="/img/测试/1.pdf">Download PDF</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        
-
-	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;/img/测试/1.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
-	&lt;/div&gt;
+        &lt;embed src=&quot;/img/测试/1.pdf&quot; width=&quot;100%&quot; height=&quot;1300px&quot;&gt;
 
 
 
+&lt;p&gt;&lt;a href=&quot;/img/测试/1.pdf&quot;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;/img/测试/1.pdf
       
     
     </summary>
