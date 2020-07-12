@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chubbylee-math.github.io/2020/07/11/Python%20Matplotlib/</loc>
+    
+    <lastmod>2020-07-12T02:07:27.033Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chubbylee-math.github.io/2020/07/11/Python%20Pandas/</loc>
     
     <lastmod>2020-07-11T09:25:23.545Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://chubbylee-math.github.io/2020/07/07/Python%20%E5%9F%BA%E7%A1%80%E4%B8%80/</loc>
     
     <lastmod>2020-07-11T07:51:15.137Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chubbylee-math.github.io/2020/07/11/Python%20Matplotlib/</loc>
-    
-    <lastmod>2020-07-11T07:26:36.517Z</lastmod>
     
   </url>
   
