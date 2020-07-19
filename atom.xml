@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chubbylee-math.github.io/"/>
-  <updated>2020-07-17T02:02:45.141Z</updated>
+  <updated>2020-07-19T13:28:35.208Z</updated>
   <id>https://chubbylee-math.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python for Finance Chapter5</title>
+    <link href="https://chubbylee-math.github.io/2020/07/19/Python%20for%20Finance,Chapter%205/"/>
+    <id>https://chubbylee-math.github.io/2020/07/19/Python%20for%20Finance,Chapter%205/</id>
+    <published>2020-07-19T13:26:23.301Z</published>
+    <updated>2020-07-19T13:28:35.208Z</updated>
+    
+    <content type="html"><![CDATA[<embed src="/img/测试/2.pdf" width="100%" height="1300px"><p><a href="/img/测试/2.pdf">Download PDF</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;embed src=&quot;/img/测试/2.pdf&quot; width=&quot;100%&quot; height=&quot;1300px&quot;&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;/img/测试/2.pdf&quot;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="金融数值分析" scheme="https://ChubbyLEE-Math.github.io/categories/%E9%87%91%E8%9E%8D%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/"/>
+    
+    
+      <category term="Python for Finance" scheme="https://ChubbyLEE-Math.github.io/tags/Python-for-Finance/"/>
+    
+  </entry>
   
   <entry>
     <title>Python for Finance Chapter3</title>
